@@ -1,0 +1,14 @@
+.searchBlock {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.input {
+    border: 1px solid #aba1a1;
+    border-radius: 6px;
+    padding: 7px;
+}
+
+
